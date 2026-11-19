@@ -62,3 +62,23 @@ I also performed manual testing to verify transaction entry, category prediction
 ## Project Purpose
 
 The project demonstrates how machine learning can be integrated into a Python-based application to support personal financial planning.
+
+
+## Application Screenshots
+
+The following screenshots demonstrate the AI Budget Planner's interface and functionality.
+
+### Screenshot 1
+![AI Budget Planner Screenshot 1](screenshots/screenshot1.png)
+
+### Screenshot 2
+![AI Budget Planner Screenshot 2](screenshots/screenshot2.png)
+
+### Screenshot 3
+![AI Budget Planner Screenshot 3](screenshots/screenshot3.png)
+
+### Screenshot 4
+![AI Budget Planner Screenshot 4](screenshots/screenshot4.png)
+
+### Screenshot 5
+![AI Budget Planner Screenshot 5](screenshots/screenshot5.png)
